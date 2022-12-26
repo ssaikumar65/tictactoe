@@ -1,0 +1,16 @@
+:root {
+  --primary: #f2e5e5;
+  --cell: #2b3a55;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  font-family: Roboto;
+  background-color: var(--primary);
+}
